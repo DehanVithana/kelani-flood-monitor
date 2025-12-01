@@ -53,7 +53,7 @@ function App() {
             color: '#1a202c',
             fontWeight: '700'
           }}>
-            🌊 Kelani River Flood Monitor
+            🌊 Kelani River Flood Monitor by DehanV
           </h1>
           <p style={{
             margin: '0',
@@ -110,7 +110,7 @@ function App() {
           color: 'rgba(255, 255, 255, 0.8)',
           fontSize: '14px'
         }}>
-          Data source: Sri Lanka Irrigation Department | Updates every 5 minutes
+          Data source: Sri Lanka Irrigation Department | Updates every 5 minutes | dehan.m.vithana@gmail.com | +94718704640
         </footer>
       </div>
     </div>
